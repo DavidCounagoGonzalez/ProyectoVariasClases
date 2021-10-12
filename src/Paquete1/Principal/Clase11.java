@@ -1,4 +1,4 @@
-package Paquete1;
+package Paquete1.Principal;
 
 public class Clase11 {
     public static void main(String[] args) {
